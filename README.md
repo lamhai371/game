@@ -1,0 +1,2 @@
+# game
+File kiếm tiền 
